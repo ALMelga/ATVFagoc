@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1710250564 source:c:\users\allan\onedrive\햞ea de trabalho\atividade 5 - desenvolvimento\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"funcoes.h"
+
+1710250887 c:\users\allan\onedrive\햞ea de trabalho\atividade 5 - desenvolvimento\funcoes.h
+
+1710250564 source:c:\users\allan\onedrive\햞ea de trabalho\atividade 5 - desenvolvimento (c++)\main.cpp
+	<iostream>
+	<iomanip>
+	<string>
+	"funcoes.h"
+
+1710250887 c:\users\allan\onedrive\햞ea de trabalho\atividade 5 - desenvolvimento (c++)\funcoes.h
+
